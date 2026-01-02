@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Lakshit Bamaniya 👋 </h1>
-<h3 align="center">🚀 Web Developer | MERN Stack   🚀</h3>
+<h3 align="center">🚀  Full Stack Developer  🚀</h3>
 <div>
 <img width = "35%" align="right" alt="PIC" height="300px" src="https://www.pngitem.com/pimgs/m/4-42822_apple-tv-copy-developer-illustration-png-transparent-png.png" />
 <div align="left"> 
@@ -8,7 +8,7 @@
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science and Engineering.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Backend Architectures.
 </div> 
 </div>
 
